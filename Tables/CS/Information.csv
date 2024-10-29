@@ -1,0 +1,9 @@
+cs_clas_name,dcs_clas_name,prog_names,title,y_min,y_max,loc,yticks,folder
+KL-0.6,dKL-0.6,Tables/CS/KL-0.6.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = -0.6",0,60,upper center,10,Graphs/CS/KL-0.6.pdf
+KL-0.25,dKL-0.25,Tables/CS/KL-0.25.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = -0.25",0,100,lower center,20,Graphs/CS/KL-0.25.pdf
+KL0.35,dKL0.35,Tables/CS/KL0.35.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = 0.35",0,150,lower center,25,Graphs/CS/KL0.35.pdf
+KL0.65,dKL0.65,Tables/CS/KL0.65.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = 0.65",0,200,lower center,50,Graphs/CS/KL0.65.pdf
+KS-0.6,dKS-0.6,Tables/CS/KS-0.6.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = -0.6",0,50,upper center,10,Graphs/CS/KS-0.6.pdf
+KS-0.25,dKS-0.25,Tables/CS/KS-0.25.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = -0.25",0,80,upper center,20,Graphs/CS/KS-0.25.pdf
+KS0.05,dKS0.05,Tables/CS/KS0.05.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = 0.05",0,80,upper center,20,Graphs/CS/KS0.05.pdf
+KS0.35,dKS0.35,Tables/CS/KS0.35.csv,"W = 1.85 ГэВ, Q² = 1.55 ГэВ², cosθ = 0.35",0,60,lower center,10,Graphs/CS/KS0.35.pdf
